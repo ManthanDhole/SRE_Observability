@@ -1,0 +1,21 @@
+#!/sbin/openrc-run
+
+name="Prometheus Node Exporter"
+description="Prometheus Node Exporter"
+command="/var/lib/node/node_exporter"
+command_user="prometheus:prometheus"
+pidfile="/run/${RC_SVCNAME}.pid"
+
+command_background="yes"
+make_pidfile="yes"
+
+depend() {
+    need net
+    after firewall
+}
+
+reload() {
+    ebegin "Reloading ${RC_SVCNAME}"
+    start-stop-daemon --signal HUP --pidfile "${pidfile}"
+    eend $?
+}

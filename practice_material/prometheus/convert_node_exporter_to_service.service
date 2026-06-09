@@ -9,7 +9,7 @@ Type=simple
 User=prometheus
 Group=prometheus
 ExecReload=/bin/kill -HUP $MAINPID
-ExecStart=/home/prometheus_folder/node_exporter-1.11.1.linux-amd64/node_exporter
+ExecStart=/var/lib/node/node_exporter
 
 
 SyslogIdentifier=prometheus_node_exporter
