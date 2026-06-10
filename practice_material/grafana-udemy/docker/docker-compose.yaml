@@ -1,7 +1,7 @@
 services:
 
   tempo:
-    image: docker.io/grafana/tempo:latest
+    image: docker.io/grafana/tempo:2.7.2
     volumes:
       - ./shared/tempo:/etc
       - ./tempo-data:/var/tempo
@@ -19,6 +19,7 @@ services:
     command: 
       - "--web.enable-remote-write-receiver" 
       - "--config.file=/etc/prometheus/prometheus.yml"
+      # - "--config.file=/opt/homebrew/etc/prometheus.yml"
 
   mimir:
     image: docker.io/grafana/mimir:latest

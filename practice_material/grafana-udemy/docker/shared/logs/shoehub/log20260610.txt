@@ -1,0 +1,997 @@
+2026-06-10 08:17:26.293 +00:00 [INF] Now listening on: http://[::]:8080
+2026-06-10 08:17:26.309 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-10 08:17:26.310 +00:00 [INF] Hosting environment: Production
+2026-06-10 08:17:26.310 +00:00 [INF] Content root path: /app
+2026-06-10 08:17:33.227 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:17:33.233 +00:00 [WRN] Failed to determine the https port for redirect.
+2026-06-10 08:17:33.235 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:17:33.238 +00:00 [INF] Updated sales metric for Loafers with value 25
+2026-06-10 08:17:33.238 +00:00 [INF] Updated sales metric for Boots with value 53
+2026-06-10 08:17:33.238 +00:00 [INF] Updated sales metric for HighHeels with value 37
+2026-06-10 08:17:33.239 +00:00 [INF] Updated payment metric for AU, Card with value 860
+2026-06-10 08:17:33.239 +00:00 [INF] Updated payment metric for AU, Cash with value 487
+2026-06-10 08:17:33.239 +00:00 [INF] Updated payment metric for AU, Paypal with value 34
+2026-06-10 08:17:33.239 +00:00 [INF] Updated payment metric for US, Card with value 853
+2026-06-10 08:17:33.239 +00:00 [INF] Updated payment metric for US, Cash with value 569
+2026-06-10 08:17:33.240 +00:00 [INF] Updated payment metric for US, Paypal with value 773
+2026-06-10 08:17:33.240 +00:00 [INF] Updated payment metric for IN, Card with value 74
+2026-06-10 08:17:33.240 +00:00 [INF] Updated payment metric for IN, Cash with value 598
+2026-06-10 08:17:33.240 +00:00 [INF] Updated payment metric for IN, Paypal with value 927
+2026-06-10 08:17:33.240 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:17:33.267 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:17:33.268 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 41.5895ms
+2026-06-10 08:17:38.208 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:17:38.209 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:17:38.209 +00:00 [INF] Updated sales metric for Loafers with value 17
+2026-06-10 08:17:38.209 +00:00 [INF] Updated sales metric for Boots with value 18
+2026-06-10 08:17:38.210 +00:00 [INF] Updated sales metric for HighHeels with value 62
+2026-06-10 08:17:38.210 +00:00 [INF] Updated payment metric for AU, Card with value 32
+2026-06-10 08:17:38.210 +00:00 [INF] Updated payment metric for AU, Cash with value 863
+2026-06-10 08:17:38.210 +00:00 [INF] Updated payment metric for AU, Paypal with value 651
+2026-06-10 08:17:38.210 +00:00 [INF] Updated payment metric for US, Card with value 113
+2026-06-10 08:17:38.210 +00:00 [INF] Updated payment metric for US, Cash with value 832
+2026-06-10 08:17:38.210 +00:00 [INF] Updated payment metric for US, Paypal with value 865
+2026-06-10 08:17:38.210 +00:00 [INF] Updated payment metric for IN, Card with value 321
+2026-06-10 08:17:38.211 +00:00 [INF] Updated payment metric for IN, Cash with value 951
+2026-06-10 08:17:38.211 +00:00 [INF] Updated payment metric for IN, Paypal with value 868
+2026-06-10 08:17:38.211 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:17:38.213 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:17:38.213 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 9.0224ms
+2026-06-10 08:17:43.204 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:17:43.204 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:17:43.205 +00:00 [INF] Updated sales metric for Loafers with value 26
+2026-06-10 08:17:43.205 +00:00 [INF] Updated sales metric for Boots with value 96
+2026-06-10 08:17:43.205 +00:00 [INF] Updated sales metric for HighHeels with value 15
+2026-06-10 08:17:43.205 +00:00 [INF] Updated payment metric for AU, Card with value 621
+2026-06-10 08:17:43.206 +00:00 [INF] Updated payment metric for AU, Cash with value 751
+2026-06-10 08:17:43.206 +00:00 [INF] Updated payment metric for AU, Paypal with value 199
+2026-06-10 08:17:43.206 +00:00 [INF] Updated payment metric for US, Card with value 556
+2026-06-10 08:17:43.206 +00:00 [INF] Updated payment metric for US, Cash with value 60
+2026-06-10 08:17:43.206 +00:00 [INF] Updated payment metric for US, Paypal with value 986
+2026-06-10 08:17:43.206 +00:00 [INF] Updated payment metric for IN, Card with value 157
+2026-06-10 08:17:43.206 +00:00 [INF] Updated payment metric for IN, Cash with value 324
+2026-06-10 08:17:43.206 +00:00 [INF] Updated payment metric for IN, Paypal with value 211
+2026-06-10 08:17:43.206 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:17:43.210 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:17:43.210 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 7.1365ms
+2026-06-10 08:17:48.201 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:17:48.202 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:17:48.208 +00:00 [INF] Updated sales metric for Loafers with value 72
+2026-06-10 08:17:48.209 +00:00 [INF] Updated sales metric for Boots with value 53
+2026-06-10 08:17:48.210 +00:00 [INF] Updated sales metric for HighHeels with value 59
+2026-06-10 08:17:48.211 +00:00 [INF] Updated payment metric for AU, Card with value 372
+2026-06-10 08:17:48.212 +00:00 [INF] Updated payment metric for AU, Cash with value 562
+2026-06-10 08:17:48.212 +00:00 [INF] Updated payment metric for AU, Paypal with value 859
+2026-06-10 08:17:48.212 +00:00 [INF] Updated payment metric for US, Card with value 3
+2026-06-10 08:17:48.213 +00:00 [INF] Updated payment metric for US, Cash with value 553
+2026-06-10 08:17:48.213 +00:00 [INF] Updated payment metric for US, Paypal with value 86
+2026-06-10 08:17:48.213 +00:00 [INF] Updated payment metric for IN, Card with value 849
+2026-06-10 08:17:48.214 +00:00 [INF] Updated payment metric for IN, Cash with value 135
+2026-06-10 08:17:48.214 +00:00 [INF] Updated payment metric for IN, Paypal with value 254
+2026-06-10 08:17:48.214 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:17:48.218 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:17:48.218 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 17.0052ms
+2026-06-10 08:17:53.210 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:17:53.214 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:17:53.214 +00:00 [INF] Updated sales metric for Loafers with value 86
+2026-06-10 08:17:53.215 +00:00 [INF] Updated sales metric for Boots with value 12
+2026-06-10 08:17:53.215 +00:00 [INF] Updated sales metric for HighHeels with value 60
+2026-06-10 08:17:53.215 +00:00 [INF] Updated payment metric for AU, Card with value 324
+2026-06-10 08:17:53.215 +00:00 [INF] Updated payment metric for AU, Cash with value 730
+2026-06-10 08:17:53.216 +00:00 [INF] Updated payment metric for AU, Paypal with value 793
+2026-06-10 08:17:53.216 +00:00 [INF] Updated payment metric for US, Card with value 273
+2026-06-10 08:17:53.216 +00:00 [INF] Updated payment metric for US, Cash with value 657
+2026-06-10 08:17:53.216 +00:00 [INF] Updated payment metric for US, Paypal with value 464
+2026-06-10 08:17:53.216 +00:00 [INF] Updated payment metric for IN, Card with value 906
+2026-06-10 08:17:53.216 +00:00 [INF] Updated payment metric for IN, Cash with value 680
+2026-06-10 08:17:53.216 +00:00 [INF] Updated payment metric for IN, Paypal with value 259
+2026-06-10 08:17:53.217 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:17:53.220 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:17:53.220 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 10.4978ms
+2026-06-10 08:17:58.200 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:17:58.201 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:17:58.201 +00:00 [INF] Updated sales metric for Loafers with value 58
+2026-06-10 08:17:58.201 +00:00 [INF] Updated sales metric for Boots with value 88
+2026-06-10 08:17:58.201 +00:00 [INF] Updated sales metric for HighHeels with value 39
+2026-06-10 08:17:58.202 +00:00 [INF] Updated payment metric for AU, Card with value 702
+2026-06-10 08:17:58.202 +00:00 [INF] Updated payment metric for AU, Cash with value 726
+2026-06-10 08:17:58.202 +00:00 [INF] Updated payment metric for AU, Paypal with value 325
+2026-06-10 08:17:58.202 +00:00 [INF] Updated payment metric for US, Card with value 958
+2026-06-10 08:17:58.202 +00:00 [INF] Updated payment metric for US, Cash with value 30
+2026-06-10 08:17:58.203 +00:00 [INF] Updated payment metric for US, Paypal with value 101
+2026-06-10 08:17:58.203 +00:00 [INF] Updated payment metric for IN, Card with value 763
+2026-06-10 08:17:58.203 +00:00 [INF] Updated payment metric for IN, Cash with value 852
+2026-06-10 08:17:58.203 +00:00 [INF] Updated payment metric for IN, Paypal with value 595
+2026-06-10 08:17:58.203 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:17:58.205 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:17:58.206 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 5.2103ms
+2026-06-10 08:18:03.205 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:18:03.205 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:18:03.206 +00:00 [INF] Updated sales metric for Loafers with value 44
+2026-06-10 08:18:03.206 +00:00 [INF] Updated sales metric for Boots with value 43
+2026-06-10 08:18:03.206 +00:00 [INF] Updated sales metric for HighHeels with value 40
+2026-06-10 08:18:03.206 +00:00 [INF] Updated payment metric for AU, Card with value 397
+2026-06-10 08:18:03.207 +00:00 [INF] Updated payment metric for AU, Cash with value 55
+2026-06-10 08:18:03.207 +00:00 [INF] Updated payment metric for AU, Paypal with value 136
+2026-06-10 08:18:03.207 +00:00 [INF] Updated payment metric for US, Card with value 455
+2026-06-10 08:18:03.207 +00:00 [INF] Updated payment metric for US, Cash with value 528
+2026-06-10 08:18:03.207 +00:00 [INF] Updated payment metric for US, Paypal with value 430
+2026-06-10 08:18:03.207 +00:00 [INF] Updated payment metric for IN, Card with value 708
+2026-06-10 08:18:03.207 +00:00 [INF] Updated payment metric for IN, Cash with value 307
+2026-06-10 08:18:03.207 +00:00 [INF] Updated payment metric for IN, Paypal with value 103
+2026-06-10 08:18:03.207 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:18:03.210 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:18:03.210 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 5.7067ms
+2026-06-10 08:18:08.203 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:18:08.204 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:18:08.204 +00:00 [INF] Updated sales metric for Loafers with value 22
+2026-06-10 08:18:08.204 +00:00 [INF] Updated sales metric for Boots with value 35
+2026-06-10 08:18:08.204 +00:00 [INF] Updated sales metric for HighHeels with value 98
+2026-06-10 08:18:08.204 +00:00 [INF] Updated payment metric for AU, Card with value 583
+2026-06-10 08:18:08.204 +00:00 [INF] Updated payment metric for AU, Cash with value 577
+2026-06-10 08:18:08.205 +00:00 [INF] Updated payment metric for AU, Paypal with value 387
+2026-06-10 08:18:08.205 +00:00 [INF] Updated payment metric for US, Card with value 933
+2026-06-10 08:18:08.205 +00:00 [INF] Updated payment metric for US, Cash with value 192
+2026-06-10 08:18:08.205 +00:00 [INF] Updated payment metric for US, Paypal with value 869
+2026-06-10 08:18:08.205 +00:00 [INF] Updated payment metric for IN, Card with value 503
+2026-06-10 08:18:08.205 +00:00 [INF] Updated payment metric for IN, Cash with value 418
+2026-06-10 08:18:08.205 +00:00 [INF] Updated payment metric for IN, Paypal with value 81
+2026-06-10 08:18:08.206 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:18:08.208 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:18:08.209 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 5.8021ms
+2026-06-10 08:18:13.205 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:18:13.206 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:18:13.206 +00:00 [INF] Updated sales metric for Loafers with value 64
+2026-06-10 08:18:13.206 +00:00 [INF] Updated sales metric for Boots with value 26
+2026-06-10 08:18:13.207 +00:00 [INF] Updated sales metric for HighHeels with value 22
+2026-06-10 08:18:13.207 +00:00 [INF] Updated payment metric for AU, Card with value 470
+2026-06-10 08:18:13.207 +00:00 [INF] Updated payment metric for AU, Cash with value 968
+2026-06-10 08:18:13.207 +00:00 [INF] Updated payment metric for AU, Paypal with value 526
+2026-06-10 08:18:13.207 +00:00 [INF] Updated payment metric for US, Card with value 877
+2026-06-10 08:18:13.207 +00:00 [INF] Updated payment metric for US, Cash with value 728
+2026-06-10 08:18:13.208 +00:00 [INF] Updated payment metric for US, Paypal with value 162
+2026-06-10 08:18:13.208 +00:00 [INF] Updated payment metric for IN, Card with value 945
+2026-06-10 08:18:13.208 +00:00 [INF] Updated payment metric for IN, Cash with value 842
+2026-06-10 08:18:13.208 +00:00 [INF] Updated payment metric for IN, Paypal with value 765
+2026-06-10 08:18:13.208 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:18:13.212 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:18:13.213 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 7.9894ms
+2026-06-10 08:18:18.201 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:18:18.202 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:18:18.202 +00:00 [INF] Updated sales metric for Loafers with value 92
+2026-06-10 08:18:18.202 +00:00 [INF] Updated sales metric for Boots with value 66
+2026-06-10 08:18:18.203 +00:00 [INF] Updated sales metric for HighHeels with value 97
+2026-06-10 08:18:18.203 +00:00 [INF] Updated payment metric for AU, Card with value 572
+2026-06-10 08:18:18.203 +00:00 [INF] Updated payment metric for AU, Cash with value 958
+2026-06-10 08:18:18.203 +00:00 [INF] Updated payment metric for AU, Paypal with value 783
+2026-06-10 08:18:18.204 +00:00 [INF] Updated payment metric for US, Card with value 584
+2026-06-10 08:18:18.204 +00:00 [INF] Updated payment metric for US, Cash with value 879
+2026-06-10 08:18:18.204 +00:00 [INF] Updated payment metric for US, Paypal with value 622
+2026-06-10 08:18:18.204 +00:00 [INF] Updated payment metric for IN, Card with value 234
+2026-06-10 08:18:18.204 +00:00 [INF] Updated payment metric for IN, Cash with value 185
+2026-06-10 08:18:18.204 +00:00 [INF] Updated payment metric for IN, Paypal with value 284
+2026-06-10 08:18:18.204 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:18:18.225 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:18:18.226 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 24.995ms
+2026-06-10 08:18:23.206 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:18:23.207 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:18:23.207 +00:00 [INF] Updated sales metric for Loafers with value 79
+2026-06-10 08:18:23.207 +00:00 [INF] Updated sales metric for Boots with value 87
+2026-06-10 08:18:23.208 +00:00 [INF] Updated sales metric for HighHeels with value 28
+2026-06-10 08:18:23.208 +00:00 [INF] Updated payment metric for AU, Card with value 72
+2026-06-10 08:18:23.208 +00:00 [INF] Updated payment metric for AU, Cash with value 564
+2026-06-10 08:18:23.208 +00:00 [INF] Updated payment metric for AU, Paypal with value 702
+2026-06-10 08:18:23.208 +00:00 [INF] Updated payment metric for US, Card with value 796
+2026-06-10 08:18:23.208 +00:00 [INF] Updated payment metric for US, Cash with value 635
+2026-06-10 08:18:23.208 +00:00 [INF] Updated payment metric for US, Paypal with value 592
+2026-06-10 08:18:23.208 +00:00 [INF] Updated payment metric for IN, Card with value 132
+2026-06-10 08:18:23.209 +00:00 [INF] Updated payment metric for IN, Cash with value 174
+2026-06-10 08:18:23.209 +00:00 [INF] Updated payment metric for IN, Paypal with value 694
+2026-06-10 08:18:23.209 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:18:23.212 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:18:23.212 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 7.2558ms
+2026-06-10 08:18:28.203 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:18:28.204 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:18:28.204 +00:00 [INF] Updated sales metric for Loafers with value 18
+2026-06-10 08:18:28.204 +00:00 [INF] Updated sales metric for Boots with value 23
+2026-06-10 08:18:28.204 +00:00 [INF] Updated sales metric for HighHeels with value 46
+2026-06-10 08:18:28.204 +00:00 [INF] Updated payment metric for AU, Card with value 938
+2026-06-10 08:18:28.205 +00:00 [INF] Updated payment metric for AU, Cash with value 956
+2026-06-10 08:18:28.205 +00:00 [INF] Updated payment metric for AU, Paypal with value 613
+2026-06-10 08:18:28.205 +00:00 [INF] Updated payment metric for US, Card with value 751
+2026-06-10 08:18:28.205 +00:00 [INF] Updated payment metric for US, Cash with value 339
+2026-06-10 08:18:28.205 +00:00 [INF] Updated payment metric for US, Paypal with value 55
+2026-06-10 08:18:28.205 +00:00 [INF] Updated payment metric for IN, Card with value 885
+2026-06-10 08:18:28.205 +00:00 [INF] Updated payment metric for IN, Cash with value 292
+2026-06-10 08:18:28.205 +00:00 [INF] Updated payment metric for IN, Paypal with value 597
+2026-06-10 08:18:28.206 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:18:28.209 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:18:28.214 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 11.896ms
+2026-06-10 08:18:33.203 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:18:33.204 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:18:33.204 +00:00 [INF] Updated sales metric for Loafers with value 63
+2026-06-10 08:18:33.204 +00:00 [INF] Updated sales metric for Boots with value 61
+2026-06-10 08:18:33.204 +00:00 [INF] Updated sales metric for HighHeels with value 24
+2026-06-10 08:18:33.205 +00:00 [INF] Updated payment metric for AU, Card with value 647
+2026-06-10 08:18:33.205 +00:00 [INF] Updated payment metric for AU, Cash with value 396
+2026-06-10 08:18:33.205 +00:00 [INF] Updated payment metric for AU, Paypal with value 76
+2026-06-10 08:18:33.205 +00:00 [INF] Updated payment metric for US, Card with value 804
+2026-06-10 08:18:33.205 +00:00 [INF] Updated payment metric for US, Cash with value 482
+2026-06-10 08:18:33.205 +00:00 [INF] Updated payment metric for US, Paypal with value 425
+2026-06-10 08:18:33.205 +00:00 [INF] Updated payment metric for IN, Card with value 631
+2026-06-10 08:18:33.205 +00:00 [INF] Updated payment metric for IN, Cash with value 500
+2026-06-10 08:18:33.206 +00:00 [INF] Updated payment metric for IN, Paypal with value 878
+2026-06-10 08:18:33.206 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:18:33.210 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:18:33.210 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 7.1135ms
+2026-06-10 08:18:38.202 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:18:38.203 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:18:38.204 +00:00 [INF] Updated sales metric for Loafers with value 92
+2026-06-10 08:18:38.204 +00:00 [INF] Updated sales metric for Boots with value 51
+2026-06-10 08:18:38.204 +00:00 [INF] Updated sales metric for HighHeels with value 48
+2026-06-10 08:18:38.204 +00:00 [INF] Updated payment metric for AU, Card with value 395
+2026-06-10 08:18:38.205 +00:00 [INF] Updated payment metric for AU, Cash with value 125
+2026-06-10 08:18:38.205 +00:00 [INF] Updated payment metric for AU, Paypal with value 687
+2026-06-10 08:18:38.205 +00:00 [INF] Updated payment metric for US, Card with value 368
+2026-06-10 08:18:38.205 +00:00 [INF] Updated payment metric for US, Cash with value 781
+2026-06-10 08:18:38.205 +00:00 [INF] Updated payment metric for US, Paypal with value 501
+2026-06-10 08:18:38.205 +00:00 [INF] Updated payment metric for IN, Card with value 491
+2026-06-10 08:18:38.206 +00:00 [INF] Updated payment metric for IN, Cash with value 467
+2026-06-10 08:18:38.207 +00:00 [INF] Updated payment metric for IN, Paypal with value 367
+2026-06-10 08:18:38.207 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:18:38.211 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:18:38.211 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 8.9572ms
+2026-06-10 08:18:43.205 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:18:43.205 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:18:43.205 +00:00 [INF] Updated sales metric for Loafers with value 46
+2026-06-10 08:18:43.205 +00:00 [INF] Updated sales metric for Boots with value 82
+2026-06-10 08:18:43.205 +00:00 [INF] Updated sales metric for HighHeels with value 41
+2026-06-10 08:18:43.206 +00:00 [INF] Updated payment metric for AU, Card with value 298
+2026-06-10 08:18:43.206 +00:00 [INF] Updated payment metric for AU, Cash with value 752
+2026-06-10 08:18:43.206 +00:00 [INF] Updated payment metric for AU, Paypal with value 708
+2026-06-10 08:18:43.206 +00:00 [INF] Updated payment metric for US, Card with value 22
+2026-06-10 08:18:43.206 +00:00 [INF] Updated payment metric for US, Cash with value 810
+2026-06-10 08:18:43.206 +00:00 [INF] Updated payment metric for US, Paypal with value 23
+2026-06-10 08:18:43.207 +00:00 [INF] Updated payment metric for IN, Card with value 401
+2026-06-10 08:18:43.207 +00:00 [INF] Updated payment metric for IN, Cash with value 748
+2026-06-10 08:18:43.207 +00:00 [INF] Updated payment metric for IN, Paypal with value 495
+2026-06-10 08:18:43.207 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:18:43.210 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:18:43.211 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 6.376ms
+2026-06-10 08:18:48.205 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:18:48.206 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:18:48.206 +00:00 [INF] Updated sales metric for Loafers with value 22
+2026-06-10 08:18:48.207 +00:00 [INF] Updated sales metric for Boots with value 10
+2026-06-10 08:18:48.207 +00:00 [INF] Updated sales metric for HighHeels with value 79
+2026-06-10 08:18:48.207 +00:00 [INF] Updated payment metric for AU, Card with value 874
+2026-06-10 08:18:48.207 +00:00 [INF] Updated payment metric for AU, Cash with value 571
+2026-06-10 08:18:48.208 +00:00 [INF] Updated payment metric for AU, Paypal with value 249
+2026-06-10 08:18:48.208 +00:00 [INF] Updated payment metric for US, Card with value 35
+2026-06-10 08:18:48.208 +00:00 [INF] Updated payment metric for US, Cash with value 330
+2026-06-10 08:18:48.208 +00:00 [INF] Updated payment metric for US, Paypal with value 549
+2026-06-10 08:18:48.208 +00:00 [INF] Updated payment metric for IN, Card with value 734
+2026-06-10 08:18:48.208 +00:00 [INF] Updated payment metric for IN, Cash with value 616
+2026-06-10 08:18:48.208 +00:00 [INF] Updated payment metric for IN, Paypal with value 221
+2026-06-10 08:18:48.209 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:18:48.213 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:18:48.214 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 8.6148ms
+2026-06-10 08:18:53.200 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:18:53.201 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:18:53.201 +00:00 [INF] Updated sales metric for Loafers with value 56
+2026-06-10 08:18:53.201 +00:00 [INF] Updated sales metric for Boots with value 91
+2026-06-10 08:18:53.201 +00:00 [INF] Updated sales metric for HighHeels with value 49
+2026-06-10 08:18:53.201 +00:00 [INF] Updated payment metric for AU, Card with value 357
+2026-06-10 08:18:53.201 +00:00 [INF] Updated payment metric for AU, Cash with value 286
+2026-06-10 08:18:53.202 +00:00 [INF] Updated payment metric for AU, Paypal with value 803
+2026-06-10 08:18:53.202 +00:00 [INF] Updated payment metric for US, Card with value 562
+2026-06-10 08:18:53.202 +00:00 [INF] Updated payment metric for US, Cash with value 755
+2026-06-10 08:18:53.202 +00:00 [INF] Updated payment metric for US, Paypal with value 997
+2026-06-10 08:18:53.202 +00:00 [INF] Updated payment metric for IN, Card with value 48
+2026-06-10 08:18:53.203 +00:00 [INF] Updated payment metric for IN, Cash with value 196
+2026-06-10 08:18:53.203 +00:00 [INF] Updated payment metric for IN, Paypal with value 418
+2026-06-10 08:18:53.203 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:18:53.206 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:18:53.206 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 5.5135ms
+2026-06-10 08:18:58.200 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:18:58.200 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:18:58.200 +00:00 [INF] Updated sales metric for Loafers with value 99
+2026-06-10 08:18:58.200 +00:00 [INF] Updated sales metric for Boots with value 21
+2026-06-10 08:18:58.200 +00:00 [INF] Updated sales metric for HighHeels with value 12
+2026-06-10 08:18:58.201 +00:00 [INF] Updated payment metric for AU, Card with value 234
+2026-06-10 08:18:58.201 +00:00 [INF] Updated payment metric for AU, Cash with value 500
+2026-06-10 08:18:58.201 +00:00 [INF] Updated payment metric for AU, Paypal with value 554
+2026-06-10 08:18:58.201 +00:00 [INF] Updated payment metric for US, Card with value 581
+2026-06-10 08:18:58.201 +00:00 [INF] Updated payment metric for US, Cash with value 863
+2026-06-10 08:18:58.201 +00:00 [INF] Updated payment metric for US, Paypal with value 31
+2026-06-10 08:18:58.201 +00:00 [INF] Updated payment metric for IN, Card with value 994
+2026-06-10 08:18:58.201 +00:00 [INF] Updated payment metric for IN, Cash with value 194
+2026-06-10 08:18:58.201 +00:00 [INF] Updated payment metric for IN, Paypal with value 940
+2026-06-10 08:18:58.201 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:18:58.202 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:18:58.202 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 2.0484ms
+2026-06-10 08:19:03.202 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:19:03.203 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:19:03.203 +00:00 [INF] Updated sales metric for Loafers with value 13
+2026-06-10 08:19:03.204 +00:00 [INF] Updated sales metric for Boots with value 46
+2026-06-10 08:19:03.204 +00:00 [INF] Updated sales metric for HighHeels with value 36
+2026-06-10 08:19:03.204 +00:00 [INF] Updated payment metric for AU, Card with value 43
+2026-06-10 08:19:03.204 +00:00 [INF] Updated payment metric for AU, Cash with value 84
+2026-06-10 08:19:03.204 +00:00 [INF] Updated payment metric for AU, Paypal with value 738
+2026-06-10 08:19:03.204 +00:00 [INF] Updated payment metric for US, Card with value 880
+2026-06-10 08:19:03.204 +00:00 [INF] Updated payment metric for US, Cash with value 494
+2026-06-10 08:19:03.205 +00:00 [INF] Updated payment metric for US, Paypal with value 445
+2026-06-10 08:19:03.205 +00:00 [INF] Updated payment metric for IN, Card with value 748
+2026-06-10 08:19:03.205 +00:00 [INF] Updated payment metric for IN, Cash with value 823
+2026-06-10 08:19:03.205 +00:00 [INF] Updated payment metric for IN, Paypal with value 798
+2026-06-10 08:19:03.205 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:19:03.207 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:19:03.208 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 6.0319ms
+2026-06-10 08:19:08.201 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:19:08.201 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:19:08.201 +00:00 [INF] Updated sales metric for Loafers with value 11
+2026-06-10 08:19:08.201 +00:00 [INF] Updated sales metric for Boots with value 56
+2026-06-10 08:19:08.201 +00:00 [INF] Updated sales metric for HighHeels with value 46
+2026-06-10 08:19:08.202 +00:00 [INF] Updated payment metric for AU, Card with value 763
+2026-06-10 08:19:08.202 +00:00 [INF] Updated payment metric for AU, Cash with value 445
+2026-06-10 08:19:08.202 +00:00 [INF] Updated payment metric for AU, Paypal with value 888
+2026-06-10 08:19:08.202 +00:00 [INF] Updated payment metric for US, Card with value 646
+2026-06-10 08:19:08.202 +00:00 [INF] Updated payment metric for US, Cash with value 801
+2026-06-10 08:19:08.202 +00:00 [INF] Updated payment metric for US, Paypal with value 639
+2026-06-10 08:19:08.202 +00:00 [INF] Updated payment metric for IN, Card with value 807
+2026-06-10 08:19:08.202 +00:00 [INF] Updated payment metric for IN, Cash with value 215
+2026-06-10 08:19:08.202 +00:00 [INF] Updated payment metric for IN, Paypal with value 119
+2026-06-10 08:19:08.202 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:19:08.204 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:19:08.205 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 3.9159ms
+2026-06-10 08:19:13.206 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:19:13.207 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:19:13.207 +00:00 [INF] Updated sales metric for Loafers with value 22
+2026-06-10 08:19:13.207 +00:00 [INF] Updated sales metric for Boots with value 22
+2026-06-10 08:19:13.207 +00:00 [INF] Updated sales metric for HighHeels with value 28
+2026-06-10 08:19:13.208 +00:00 [INF] Updated payment metric for AU, Card with value 984
+2026-06-10 08:19:13.208 +00:00 [INF] Updated payment metric for AU, Cash with value 861
+2026-06-10 08:19:13.208 +00:00 [INF] Updated payment metric for AU, Paypal with value 699
+2026-06-10 08:19:13.208 +00:00 [INF] Updated payment metric for US, Card with value 486
+2026-06-10 08:19:13.208 +00:00 [INF] Updated payment metric for US, Cash with value 811
+2026-06-10 08:19:13.209 +00:00 [INF] Updated payment metric for US, Paypal with value 995
+2026-06-10 08:19:13.209 +00:00 [INF] Updated payment metric for IN, Card with value 782
+2026-06-10 08:19:13.209 +00:00 [INF] Updated payment metric for IN, Cash with value 396
+2026-06-10 08:19:13.209 +00:00 [INF] Updated payment metric for IN, Paypal with value 551
+2026-06-10 08:19:13.209 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:19:13.213 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:19:13.213 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 7.3075ms
+2026-06-10 08:19:18.206 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:19:18.207 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:19:18.207 +00:00 [INF] Updated sales metric for Loafers with value 73
+2026-06-10 08:19:18.207 +00:00 [INF] Updated sales metric for Boots with value 16
+2026-06-10 08:19:18.208 +00:00 [INF] Updated sales metric for HighHeels with value 66
+2026-06-10 08:19:18.208 +00:00 [INF] Updated payment metric for AU, Card with value 560
+2026-06-10 08:19:18.208 +00:00 [INF] Updated payment metric for AU, Cash with value 585
+2026-06-10 08:19:18.208 +00:00 [INF] Updated payment metric for AU, Paypal with value 967
+2026-06-10 08:19:18.208 +00:00 [INF] Updated payment metric for US, Card with value 356
+2026-06-10 08:19:18.208 +00:00 [INF] Updated payment metric for US, Cash with value 478
+2026-06-10 08:19:18.209 +00:00 [INF] Updated payment metric for US, Paypal with value 515
+2026-06-10 08:19:18.209 +00:00 [INF] Updated payment metric for IN, Card with value 188
+2026-06-10 08:19:18.209 +00:00 [INF] Updated payment metric for IN, Cash with value 394
+2026-06-10 08:19:18.209 +00:00 [INF] Updated payment metric for IN, Paypal with value 557
+2026-06-10 08:19:18.209 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:19:18.213 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:19:18.213 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 8.017ms
+2026-06-10 08:19:23.202 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:19:23.202 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:19:23.203 +00:00 [INF] Updated sales metric for Loafers with value 62
+2026-06-10 08:19:23.203 +00:00 [INF] Updated sales metric for Boots with value 63
+2026-06-10 08:19:23.203 +00:00 [INF] Updated sales metric for HighHeels with value 15
+2026-06-10 08:19:23.203 +00:00 [INF] Updated payment metric for AU, Card with value 39
+2026-06-10 08:19:23.203 +00:00 [INF] Updated payment metric for AU, Cash with value 797
+2026-06-10 08:19:23.203 +00:00 [INF] Updated payment metric for AU, Paypal with value 729
+2026-06-10 08:19:23.203 +00:00 [INF] Updated payment metric for US, Card with value 726
+2026-06-10 08:19:23.203 +00:00 [INF] Updated payment metric for US, Cash with value 260
+2026-06-10 08:19:23.203 +00:00 [INF] Updated payment metric for US, Paypal with value 439
+2026-06-10 08:19:23.204 +00:00 [INF] Updated payment metric for IN, Card with value 12
+2026-06-10 08:19:23.204 +00:00 [INF] Updated payment metric for IN, Cash with value 521
+2026-06-10 08:19:23.204 +00:00 [INF] Updated payment metric for IN, Paypal with value 175
+2026-06-10 08:19:23.204 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:19:23.208 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:19:23.209 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 6.3779ms
+2026-06-10 08:19:28.203 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:19:28.204 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:19:28.204 +00:00 [INF] Updated sales metric for Loafers with value 11
+2026-06-10 08:19:28.207 +00:00 [INF] Updated sales metric for Boots with value 50
+2026-06-10 08:19:28.207 +00:00 [INF] Updated sales metric for HighHeels with value 52
+2026-06-10 08:19:28.207 +00:00 [INF] Updated payment metric for AU, Card with value 334
+2026-06-10 08:19:28.207 +00:00 [INF] Updated payment metric for AU, Cash with value 599
+2026-06-10 08:19:28.207 +00:00 [INF] Updated payment metric for AU, Paypal with value 192
+2026-06-10 08:19:28.207 +00:00 [INF] Updated payment metric for US, Card with value 271
+2026-06-10 08:19:28.207 +00:00 [INF] Updated payment metric for US, Cash with value 891
+2026-06-10 08:19:28.208 +00:00 [INF] Updated payment metric for US, Paypal with value 178
+2026-06-10 08:19:28.208 +00:00 [INF] Updated payment metric for IN, Card with value 285
+2026-06-10 08:19:28.208 +00:00 [INF] Updated payment metric for IN, Cash with value 680
+2026-06-10 08:19:28.208 +00:00 [INF] Updated payment metric for IN, Paypal with value 269
+2026-06-10 08:19:28.208 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:19:28.211 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:19:28.211 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 8.581ms
+2026-06-10 08:19:33.202 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:19:33.203 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:19:33.203 +00:00 [INF] Updated sales metric for Loafers with value 55
+2026-06-10 08:19:33.203 +00:00 [INF] Updated sales metric for Boots with value 94
+2026-06-10 08:19:33.204 +00:00 [INF] Updated sales metric for HighHeels with value 58
+2026-06-10 08:19:33.204 +00:00 [INF] Updated payment metric for AU, Card with value 378
+2026-06-10 08:19:33.204 +00:00 [INF] Updated payment metric for AU, Cash with value 803
+2026-06-10 08:19:33.205 +00:00 [INF] Updated payment metric for AU, Paypal with value 921
+2026-06-10 08:19:33.205 +00:00 [INF] Updated payment metric for US, Card with value 183
+2026-06-10 08:19:33.205 +00:00 [INF] Updated payment metric for US, Cash with value 814
+2026-06-10 08:19:33.205 +00:00 [INF] Updated payment metric for US, Paypal with value 12
+2026-06-10 08:19:33.205 +00:00 [INF] Updated payment metric for IN, Card with value 747
+2026-06-10 08:19:33.205 +00:00 [INF] Updated payment metric for IN, Cash with value 640
+2026-06-10 08:19:33.205 +00:00 [INF] Updated payment metric for IN, Paypal with value 221
+2026-06-10 08:19:33.206 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:19:33.209 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:19:33.209 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 8.163ms
+2026-06-10 08:19:38.201 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:19:38.202 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:19:38.202 +00:00 [INF] Updated sales metric for Loafers with value 43
+2026-06-10 08:19:38.202 +00:00 [INF] Updated sales metric for Boots with value 63
+2026-06-10 08:19:38.202 +00:00 [INF] Updated sales metric for HighHeels with value 11
+2026-06-10 08:19:38.203 +00:00 [INF] Updated payment metric for AU, Card with value 550
+2026-06-10 08:19:38.203 +00:00 [INF] Updated payment metric for AU, Cash with value 527
+2026-06-10 08:19:38.203 +00:00 [INF] Updated payment metric for AU, Paypal with value 5
+2026-06-10 08:19:38.203 +00:00 [INF] Updated payment metric for US, Card with value 396
+2026-06-10 08:19:38.203 +00:00 [INF] Updated payment metric for US, Cash with value 349
+2026-06-10 08:19:38.203 +00:00 [INF] Updated payment metric for US, Paypal with value 102
+2026-06-10 08:19:38.203 +00:00 [INF] Updated payment metric for IN, Card with value 662
+2026-06-10 08:19:38.203 +00:00 [INF] Updated payment metric for IN, Cash with value 505
+2026-06-10 08:19:38.204 +00:00 [INF] Updated payment metric for IN, Paypal with value 606
+2026-06-10 08:19:38.204 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:19:38.208 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:19:38.208 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 8.0257ms
+2026-06-10 08:19:43.202 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:19:43.203 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:19:43.203 +00:00 [INF] Updated sales metric for Loafers with value 88
+2026-06-10 08:19:43.203 +00:00 [INF] Updated sales metric for Boots with value 25
+2026-06-10 08:19:43.203 +00:00 [INF] Updated sales metric for HighHeels with value 23
+2026-06-10 08:19:43.204 +00:00 [INF] Updated payment metric for AU, Card with value 582
+2026-06-10 08:19:43.204 +00:00 [INF] Updated payment metric for AU, Cash with value 144
+2026-06-10 08:19:43.204 +00:00 [INF] Updated payment metric for AU, Paypal with value 606
+2026-06-10 08:19:43.204 +00:00 [INF] Updated payment metric for US, Card with value 112
+2026-06-10 08:19:43.204 +00:00 [INF] Updated payment metric for US, Cash with value 702
+2026-06-10 08:19:43.204 +00:00 [INF] Updated payment metric for US, Paypal with value 85
+2026-06-10 08:19:43.204 +00:00 [INF] Updated payment metric for IN, Card with value 388
+2026-06-10 08:19:43.204 +00:00 [INF] Updated payment metric for IN, Cash with value 659
+2026-06-10 08:19:43.205 +00:00 [INF] Updated payment metric for IN, Paypal with value 932
+2026-06-10 08:19:43.205 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:19:43.208 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:19:43.209 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 7.3414ms
+2026-06-10 08:19:48.201 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:19:48.201 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:19:48.202 +00:00 [INF] Updated sales metric for Loafers with value 88
+2026-06-10 08:19:48.202 +00:00 [INF] Updated sales metric for Boots with value 38
+2026-06-10 08:19:48.202 +00:00 [INF] Updated sales metric for HighHeels with value 26
+2026-06-10 08:19:48.202 +00:00 [INF] Updated payment metric for AU, Card with value 196
+2026-06-10 08:19:48.202 +00:00 [INF] Updated payment metric for AU, Cash with value 510
+2026-06-10 08:19:48.203 +00:00 [INF] Updated payment metric for AU, Paypal with value 376
+2026-06-10 08:19:48.203 +00:00 [INF] Updated payment metric for US, Card with value 381
+2026-06-10 08:19:48.203 +00:00 [INF] Updated payment metric for US, Cash with value 396
+2026-06-10 08:19:48.203 +00:00 [INF] Updated payment metric for US, Paypal with value 926
+2026-06-10 08:19:48.203 +00:00 [INF] Updated payment metric for IN, Card with value 32
+2026-06-10 08:19:48.203 +00:00 [INF] Updated payment metric for IN, Cash with value 671
+2026-06-10 08:19:48.203 +00:00 [INF] Updated payment metric for IN, Paypal with value 106
+2026-06-10 08:19:48.204 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:19:48.207 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:19:48.207 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 6.5075ms
+2026-06-10 08:19:53.204 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:19:53.205 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:19:53.206 +00:00 [INF] Updated sales metric for Loafers with value 74
+2026-06-10 08:19:53.206 +00:00 [INF] Updated sales metric for Boots with value 84
+2026-06-10 08:19:53.206 +00:00 [INF] Updated sales metric for HighHeels with value 76
+2026-06-10 08:19:53.206 +00:00 [INF] Updated payment metric for AU, Card with value 190
+2026-06-10 08:19:53.206 +00:00 [INF] Updated payment metric for AU, Cash with value 63
+2026-06-10 08:19:53.206 +00:00 [INF] Updated payment metric for AU, Paypal with value 682
+2026-06-10 08:19:53.207 +00:00 [INF] Updated payment metric for US, Card with value 638
+2026-06-10 08:19:53.207 +00:00 [INF] Updated payment metric for US, Cash with value 48
+2026-06-10 08:19:53.207 +00:00 [INF] Updated payment metric for US, Paypal with value 649
+2026-06-10 08:19:53.207 +00:00 [INF] Updated payment metric for IN, Card with value 362
+2026-06-10 08:19:53.207 +00:00 [INF] Updated payment metric for IN, Cash with value 752
+2026-06-10 08:19:53.207 +00:00 [INF] Updated payment metric for IN, Paypal with value 619
+2026-06-10 08:19:53.207 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:19:53.211 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:19:53.211 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 7.8363ms
+2026-06-10 08:19:58.201 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:19:58.202 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:19:58.202 +00:00 [INF] Updated sales metric for Loafers with value 42
+2026-06-10 08:19:58.202 +00:00 [INF] Updated sales metric for Boots with value 58
+2026-06-10 08:19:58.202 +00:00 [INF] Updated sales metric for HighHeels with value 92
+2026-06-10 08:19:58.202 +00:00 [INF] Updated payment metric for AU, Card with value 771
+2026-06-10 08:19:58.203 +00:00 [INF] Updated payment metric for AU, Cash with value 860
+2026-06-10 08:19:58.203 +00:00 [INF] Updated payment metric for AU, Paypal with value 836
+2026-06-10 08:19:58.203 +00:00 [INF] Updated payment metric for US, Card with value 953
+2026-06-10 08:19:58.203 +00:00 [INF] Updated payment metric for US, Cash with value 695
+2026-06-10 08:19:58.203 +00:00 [INF] Updated payment metric for US, Paypal with value 431
+2026-06-10 08:19:58.203 +00:00 [INF] Updated payment metric for IN, Card with value 646
+2026-06-10 08:19:58.203 +00:00 [INF] Updated payment metric for IN, Cash with value 366
+2026-06-10 08:19:58.204 +00:00 [INF] Updated payment metric for IN, Paypal with value 692
+2026-06-10 08:19:58.204 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:19:58.206 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:19:58.207 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 5.5102ms
+2026-06-10 08:20:03.199 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:20:03.199 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:20:03.200 +00:00 [INF] Updated sales metric for Loafers with value 60
+2026-06-10 08:20:03.200 +00:00 [INF] Updated sales metric for Boots with value 36
+2026-06-10 08:20:03.200 +00:00 [INF] Updated sales metric for HighHeels with value 66
+2026-06-10 08:20:03.200 +00:00 [INF] Updated payment metric for AU, Card with value 10
+2026-06-10 08:20:03.200 +00:00 [INF] Updated payment metric for AU, Cash with value 208
+2026-06-10 08:20:03.200 +00:00 [INF] Updated payment metric for AU, Paypal with value 730
+2026-06-10 08:20:03.200 +00:00 [INF] Updated payment metric for US, Card with value 296
+2026-06-10 08:20:03.200 +00:00 [INF] Updated payment metric for US, Cash with value 301
+2026-06-10 08:20:03.201 +00:00 [INF] Updated payment metric for US, Paypal with value 52
+2026-06-10 08:20:03.201 +00:00 [INF] Updated payment metric for IN, Card with value 164
+2026-06-10 08:20:03.201 +00:00 [INF] Updated payment metric for IN, Cash with value 522
+2026-06-10 08:20:03.201 +00:00 [INF] Updated payment metric for IN, Paypal with value 297
+2026-06-10 08:20:03.201 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:20:03.205 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:20:03.206 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 7.1895ms
+2026-06-10 08:20:08.199 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:20:08.200 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:20:08.200 +00:00 [INF] Updated sales metric for Loafers with value 95
+2026-06-10 08:20:08.200 +00:00 [INF] Updated sales metric for Boots with value 77
+2026-06-10 08:20:08.200 +00:00 [INF] Updated sales metric for HighHeels with value 71
+2026-06-10 08:20:08.200 +00:00 [INF] Updated payment metric for AU, Card with value 485
+2026-06-10 08:20:08.200 +00:00 [INF] Updated payment metric for AU, Cash with value 945
+2026-06-10 08:20:08.200 +00:00 [INF] Updated payment metric for AU, Paypal with value 167
+2026-06-10 08:20:08.200 +00:00 [INF] Updated payment metric for US, Card with value 974
+2026-06-10 08:20:08.201 +00:00 [INF] Updated payment metric for US, Cash with value 775
+2026-06-10 08:20:08.201 +00:00 [INF] Updated payment metric for US, Paypal with value 769
+2026-06-10 08:20:08.201 +00:00 [INF] Updated payment metric for IN, Card with value 195
+2026-06-10 08:20:08.201 +00:00 [INF] Updated payment metric for IN, Cash with value 46
+2026-06-10 08:20:08.201 +00:00 [INF] Updated payment metric for IN, Paypal with value 394
+2026-06-10 08:20:08.201 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:20:08.204 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:20:08.204 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 4.8894ms
+2026-06-10 08:20:13.197 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:20:13.198 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:20:13.198 +00:00 [INF] Updated sales metric for Loafers with value 11
+2026-06-10 08:20:13.199 +00:00 [INF] Updated sales metric for Boots with value 17
+2026-06-10 08:20:13.199 +00:00 [INF] Updated sales metric for HighHeels with value 37
+2026-06-10 08:20:13.199 +00:00 [INF] Updated payment metric for AU, Card with value 31
+2026-06-10 08:20:13.199 +00:00 [INF] Updated payment metric for AU, Cash with value 23
+2026-06-10 08:20:13.200 +00:00 [INF] Updated payment metric for AU, Paypal with value 620
+2026-06-10 08:20:13.200 +00:00 [INF] Updated payment metric for US, Card with value 708
+2026-06-10 08:20:13.200 +00:00 [INF] Updated payment metric for US, Cash with value 344
+2026-06-10 08:20:13.200 +00:00 [INF] Updated payment metric for US, Paypal with value 816
+2026-06-10 08:20:13.201 +00:00 [INF] Updated payment metric for IN, Card with value 520
+2026-06-10 08:20:13.201 +00:00 [INF] Updated payment metric for IN, Cash with value 560
+2026-06-10 08:20:13.201 +00:00 [INF] Updated payment metric for IN, Paypal with value 604
+2026-06-10 08:20:13.201 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:20:13.204 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:20:13.205 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 7.4257ms
+2026-06-10 08:20:18.198 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:20:18.199 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:20:18.199 +00:00 [INF] Updated sales metric for Loafers with value 68
+2026-06-10 08:20:18.199 +00:00 [INF] Updated sales metric for Boots with value 31
+2026-06-10 08:20:18.199 +00:00 [INF] Updated sales metric for HighHeels with value 54
+2026-06-10 08:20:18.199 +00:00 [INF] Updated payment metric for AU, Card with value 268
+2026-06-10 08:20:18.200 +00:00 [INF] Updated payment metric for AU, Cash with value 472
+2026-06-10 08:20:18.200 +00:00 [INF] Updated payment metric for AU, Paypal with value 507
+2026-06-10 08:20:18.200 +00:00 [INF] Updated payment metric for US, Card with value 822
+2026-06-10 08:20:18.200 +00:00 [INF] Updated payment metric for US, Cash with value 914
+2026-06-10 08:20:18.200 +00:00 [INF] Updated payment metric for US, Paypal with value 797
+2026-06-10 08:20:18.200 +00:00 [INF] Updated payment metric for IN, Card with value 773
+2026-06-10 08:20:18.200 +00:00 [INF] Updated payment metric for IN, Cash with value 592
+2026-06-10 08:20:18.200 +00:00 [INF] Updated payment metric for IN, Paypal with value 134
+2026-06-10 08:20:18.201 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:20:18.204 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:20:18.204 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 6.3199ms
+2026-06-10 08:20:23.197 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:20:23.198 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:20:23.198 +00:00 [INF] Updated sales metric for Loafers with value 19
+2026-06-10 08:20:23.198 +00:00 [INF] Updated sales metric for Boots with value 42
+2026-06-10 08:20:23.198 +00:00 [INF] Updated sales metric for HighHeels with value 11
+2026-06-10 08:20:23.198 +00:00 [INF] Updated payment metric for AU, Card with value 2
+2026-06-10 08:20:23.199 +00:00 [INF] Updated payment metric for AU, Cash with value 319
+2026-06-10 08:20:23.199 +00:00 [INF] Updated payment metric for AU, Paypal with value 345
+2026-06-10 08:20:23.199 +00:00 [INF] Updated payment metric for US, Card with value 865
+2026-06-10 08:20:23.199 +00:00 [INF] Updated payment metric for US, Cash with value 569
+2026-06-10 08:20:23.199 +00:00 [INF] Updated payment metric for US, Paypal with value 962
+2026-06-10 08:20:23.199 +00:00 [INF] Updated payment metric for IN, Card with value 72
+2026-06-10 08:20:23.199 +00:00 [INF] Updated payment metric for IN, Cash with value 715
+2026-06-10 08:20:23.200 +00:00 [INF] Updated payment metric for IN, Paypal with value 815
+2026-06-10 08:20:23.200 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:20:23.204 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:20:23.204 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 7.0732ms
+2026-06-10 08:20:28.201 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:20:28.202 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:20:28.202 +00:00 [INF] Updated sales metric for Loafers with value 56
+2026-06-10 08:20:28.202 +00:00 [INF] Updated sales metric for Boots with value 13
+2026-06-10 08:20:28.202 +00:00 [INF] Updated sales metric for HighHeels with value 18
+2026-06-10 08:20:28.202 +00:00 [INF] Updated payment metric for AU, Card with value 993
+2026-06-10 08:20:28.203 +00:00 [INF] Updated payment metric for AU, Cash with value 582
+2026-06-10 08:20:28.203 +00:00 [INF] Updated payment metric for AU, Paypal with value 126
+2026-06-10 08:20:28.203 +00:00 [INF] Updated payment metric for US, Card with value 239
+2026-06-10 08:20:28.203 +00:00 [INF] Updated payment metric for US, Cash with value 541
+2026-06-10 08:20:28.203 +00:00 [INF] Updated payment metric for US, Paypal with value 780
+2026-06-10 08:20:28.203 +00:00 [INF] Updated payment metric for IN, Card with value 171
+2026-06-10 08:20:28.203 +00:00 [INF] Updated payment metric for IN, Cash with value 368
+2026-06-10 08:20:28.203 +00:00 [INF] Updated payment metric for IN, Paypal with value 915
+2026-06-10 08:20:28.203 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:20:28.206 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:20:28.207 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 5.6395ms
+2026-06-10 08:20:33.198 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:20:33.199 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:20:33.199 +00:00 [INF] Updated sales metric for Loafers with value 85
+2026-06-10 08:20:33.199 +00:00 [INF] Updated sales metric for Boots with value 77
+2026-06-10 08:20:33.199 +00:00 [INF] Updated sales metric for HighHeels with value 71
+2026-06-10 08:20:33.200 +00:00 [INF] Updated payment metric for AU, Card with value 807
+2026-06-10 08:20:33.200 +00:00 [INF] Updated payment metric for AU, Cash with value 141
+2026-06-10 08:20:33.200 +00:00 [INF] Updated payment metric for AU, Paypal with value 736
+2026-06-10 08:20:33.201 +00:00 [INF] Updated payment metric for US, Card with value 942
+2026-06-10 08:20:33.201 +00:00 [INF] Updated payment metric for US, Cash with value 944
+2026-06-10 08:20:33.201 +00:00 [INF] Updated payment metric for US, Paypal with value 612
+2026-06-10 08:20:33.201 +00:00 [INF] Updated payment metric for IN, Card with value 447
+2026-06-10 08:20:33.201 +00:00 [INF] Updated payment metric for IN, Cash with value 76
+2026-06-10 08:20:33.201 +00:00 [INF] Updated payment metric for IN, Paypal with value 324
+2026-06-10 08:20:33.202 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:20:33.206 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:20:33.207 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 8.7323ms
+2026-06-10 08:20:38.196 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:20:38.197 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:20:38.197 +00:00 [INF] Updated sales metric for Loafers with value 58
+2026-06-10 08:20:38.198 +00:00 [INF] Updated sales metric for Boots with value 58
+2026-06-10 08:20:38.198 +00:00 [INF] Updated sales metric for HighHeels with value 32
+2026-06-10 08:20:38.198 +00:00 [INF] Updated payment metric for AU, Card with value 919
+2026-06-10 08:20:38.198 +00:00 [INF] Updated payment metric for AU, Cash with value 761
+2026-06-10 08:20:38.198 +00:00 [INF] Updated payment metric for AU, Paypal with value 741
+2026-06-10 08:20:38.199 +00:00 [INF] Updated payment metric for US, Card with value 116
+2026-06-10 08:20:38.199 +00:00 [INF] Updated payment metric for US, Cash with value 328
+2026-06-10 08:20:38.199 +00:00 [INF] Updated payment metric for US, Paypal with value 813
+2026-06-10 08:20:38.199 +00:00 [INF] Updated payment metric for IN, Card with value 417
+2026-06-10 08:20:38.199 +00:00 [INF] Updated payment metric for IN, Cash with value 655
+2026-06-10 08:20:38.199 +00:00 [INF] Updated payment metric for IN, Paypal with value 290
+2026-06-10 08:20:38.199 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:20:38.203 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:20:38.203 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 6.9351ms
+2026-06-10 08:20:43.195 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:20:43.196 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:20:43.196 +00:00 [INF] Updated sales metric for Loafers with value 93
+2026-06-10 08:20:43.196 +00:00 [INF] Updated sales metric for Boots with value 70
+2026-06-10 08:20:43.197 +00:00 [INF] Updated sales metric for HighHeels with value 32
+2026-06-10 08:20:43.197 +00:00 [INF] Updated payment metric for AU, Card with value 740
+2026-06-10 08:20:43.197 +00:00 [INF] Updated payment metric for AU, Cash with value 1
+2026-06-10 08:20:43.197 +00:00 [INF] Updated payment metric for AU, Paypal with value 97
+2026-06-10 08:20:43.197 +00:00 [INF] Updated payment metric for US, Card with value 163
+2026-06-10 08:20:43.197 +00:00 [INF] Updated payment metric for US, Cash with value 37
+2026-06-10 08:20:43.197 +00:00 [INF] Updated payment metric for US, Paypal with value 173
+2026-06-10 08:20:43.198 +00:00 [INF] Updated payment metric for IN, Card with value 417
+2026-06-10 08:20:43.198 +00:00 [INF] Updated payment metric for IN, Cash with value 461
+2026-06-10 08:20:43.198 +00:00 [INF] Updated payment metric for IN, Paypal with value 497
+2026-06-10 08:20:43.198 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:20:43.202 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:20:43.202 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 7.1483ms
+2026-06-10 08:20:48.197 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:20:48.198 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:20:48.198 +00:00 [INF] Updated sales metric for Loafers with value 29
+2026-06-10 08:20:48.198 +00:00 [INF] Updated sales metric for Boots with value 55
+2026-06-10 08:20:48.198 +00:00 [INF] Updated sales metric for HighHeels with value 50
+2026-06-10 08:20:48.198 +00:00 [INF] Updated payment metric for AU, Card with value 5
+2026-06-10 08:20:48.199 +00:00 [INF] Updated payment metric for AU, Cash with value 444
+2026-06-10 08:20:48.199 +00:00 [INF] Updated payment metric for AU, Paypal with value 5
+2026-06-10 08:20:48.199 +00:00 [INF] Updated payment metric for US, Card with value 287
+2026-06-10 08:20:48.199 +00:00 [INF] Updated payment metric for US, Cash with value 991
+2026-06-10 08:20:48.199 +00:00 [INF] Updated payment metric for US, Paypal with value 77
+2026-06-10 08:20:48.199 +00:00 [INF] Updated payment metric for IN, Card with value 158
+2026-06-10 08:20:48.199 +00:00 [INF] Updated payment metric for IN, Cash with value 136
+2026-06-10 08:20:48.199 +00:00 [INF] Updated payment metric for IN, Paypal with value 886
+2026-06-10 08:20:48.199 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:20:48.202 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:20:48.202 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 5.5838ms
+2026-06-10 08:20:53.197 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:20:53.197 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:20:53.197 +00:00 [INF] Updated sales metric for Loafers with value 45
+2026-06-10 08:20:53.198 +00:00 [INF] Updated sales metric for Boots with value 68
+2026-06-10 08:20:53.198 +00:00 [INF] Updated sales metric for HighHeels with value 71
+2026-06-10 08:20:53.198 +00:00 [INF] Updated payment metric for AU, Card with value 119
+2026-06-10 08:20:53.198 +00:00 [INF] Updated payment metric for AU, Cash with value 545
+2026-06-10 08:20:53.198 +00:00 [INF] Updated payment metric for AU, Paypal with value 625
+2026-06-10 08:20:53.198 +00:00 [INF] Updated payment metric for US, Card with value 749
+2026-06-10 08:20:53.198 +00:00 [INF] Updated payment metric for US, Cash with value 818
+2026-06-10 08:20:53.198 +00:00 [INF] Updated payment metric for US, Paypal with value 110
+2026-06-10 08:20:53.199 +00:00 [INF] Updated payment metric for IN, Card with value 782
+2026-06-10 08:20:53.199 +00:00 [INF] Updated payment metric for IN, Cash with value 507
+2026-06-10 08:20:53.199 +00:00 [INF] Updated payment metric for IN, Paypal with value 938
+2026-06-10 08:20:53.199 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:20:53.203 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:20:53.203 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 6.5726ms
+2026-06-10 08:20:58.195 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:20:58.195 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:20:58.196 +00:00 [INF] Updated sales metric for Loafers with value 13
+2026-06-10 08:20:58.196 +00:00 [INF] Updated sales metric for Boots with value 86
+2026-06-10 08:20:58.196 +00:00 [INF] Updated sales metric for HighHeels with value 78
+2026-06-10 08:20:58.196 +00:00 [INF] Updated payment metric for AU, Card with value 171
+2026-06-10 08:20:58.196 +00:00 [INF] Updated payment metric for AU, Cash with value 59
+2026-06-10 08:20:58.196 +00:00 [INF] Updated payment metric for AU, Paypal with value 173
+2026-06-10 08:20:58.196 +00:00 [INF] Updated payment metric for US, Card with value 973
+2026-06-10 08:20:58.196 +00:00 [INF] Updated payment metric for US, Cash with value 514
+2026-06-10 08:20:58.197 +00:00 [INF] Updated payment metric for US, Paypal with value 890
+2026-06-10 08:20:58.197 +00:00 [INF] Updated payment metric for IN, Card with value 952
+2026-06-10 08:20:58.197 +00:00 [INF] Updated payment metric for IN, Cash with value 492
+2026-06-10 08:20:58.197 +00:00 [INF] Updated payment metric for IN, Paypal with value 621
+2026-06-10 08:20:58.197 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:20:58.199 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:20:58.199 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 4.1938ms
+2026-06-10 08:21:03.194 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:21:03.194 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:21:03.195 +00:00 [INF] Updated sales metric for Loafers with value 50
+2026-06-10 08:21:03.195 +00:00 [INF] Updated sales metric for Boots with value 93
+2026-06-10 08:21:03.195 +00:00 [INF] Updated sales metric for HighHeels with value 85
+2026-06-10 08:21:03.195 +00:00 [INF] Updated payment metric for AU, Card with value 421
+2026-06-10 08:21:03.195 +00:00 [INF] Updated payment metric for AU, Cash with value 690
+2026-06-10 08:21:03.196 +00:00 [INF] Updated payment metric for AU, Paypal with value 24
+2026-06-10 08:21:03.196 +00:00 [INF] Updated payment metric for US, Card with value 365
+2026-06-10 08:21:03.196 +00:00 [INF] Updated payment metric for US, Cash with value 721
+2026-06-10 08:21:03.196 +00:00 [INF] Updated payment metric for US, Paypal with value 180
+2026-06-10 08:21:03.196 +00:00 [INF] Updated payment metric for IN, Card with value 919
+2026-06-10 08:21:03.196 +00:00 [INF] Updated payment metric for IN, Cash with value 762
+2026-06-10 08:21:03.196 +00:00 [INF] Updated payment metric for IN, Paypal with value 282
+2026-06-10 08:21:03.196 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:21:03.199 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:21:03.200 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 5.9406ms
+2026-06-10 08:21:08.198 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:21:08.199 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:21:08.199 +00:00 [INF] Updated sales metric for Loafers with value 80
+2026-06-10 08:21:08.200 +00:00 [INF] Updated sales metric for Boots with value 78
+2026-06-10 08:21:08.200 +00:00 [INF] Updated sales metric for HighHeels with value 27
+2026-06-10 08:21:08.200 +00:00 [INF] Updated payment metric for AU, Card with value 694
+2026-06-10 08:21:08.200 +00:00 [INF] Updated payment metric for AU, Cash with value 494
+2026-06-10 08:21:08.200 +00:00 [INF] Updated payment metric for AU, Paypal with value 852
+2026-06-10 08:21:08.200 +00:00 [INF] Updated payment metric for US, Card with value 216
+2026-06-10 08:21:08.200 +00:00 [INF] Updated payment metric for US, Cash with value 88
+2026-06-10 08:21:08.201 +00:00 [INF] Updated payment metric for US, Paypal with value 720
+2026-06-10 08:21:08.201 +00:00 [INF] Updated payment metric for IN, Card with value 27
+2026-06-10 08:21:08.201 +00:00 [INF] Updated payment metric for IN, Cash with value 197
+2026-06-10 08:21:08.201 +00:00 [INF] Updated payment metric for IN, Paypal with value 242
+2026-06-10 08:21:08.201 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:21:08.204 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:21:08.205 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 7.1292ms
+2026-06-10 08:21:13.194 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:21:13.195 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:21:13.197 +00:00 [INF] Updated sales metric for Loafers with value 52
+2026-06-10 08:21:13.197 +00:00 [INF] Updated sales metric for Boots with value 79
+2026-06-10 08:21:13.197 +00:00 [INF] Updated sales metric for HighHeels with value 77
+2026-06-10 08:21:13.197 +00:00 [INF] Updated payment metric for AU, Card with value 975
+2026-06-10 08:21:13.198 +00:00 [INF] Updated payment metric for AU, Cash with value 157
+2026-06-10 08:21:13.198 +00:00 [INF] Updated payment metric for AU, Paypal with value 576
+2026-06-10 08:21:13.198 +00:00 [INF] Updated payment metric for US, Card with value 968
+2026-06-10 08:21:13.198 +00:00 [INF] Updated payment metric for US, Cash with value 123
+2026-06-10 08:21:13.198 +00:00 [INF] Updated payment metric for US, Paypal with value 296
+2026-06-10 08:21:13.198 +00:00 [INF] Updated payment metric for IN, Card with value 380
+2026-06-10 08:21:13.199 +00:00 [INF] Updated payment metric for IN, Cash with value 494
+2026-06-10 08:21:13.199 +00:00 [INF] Updated payment metric for IN, Paypal with value 821
+2026-06-10 08:21:13.199 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:21:13.202 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:21:13.203 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 8.4612ms
+2026-06-10 08:21:18.198 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:21:18.198 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:21:18.199 +00:00 [INF] Updated sales metric for Loafers with value 33
+2026-06-10 08:21:18.199 +00:00 [INF] Updated sales metric for Boots with value 63
+2026-06-10 08:21:18.199 +00:00 [INF] Updated sales metric for HighHeels with value 69
+2026-06-10 08:21:18.199 +00:00 [INF] Updated payment metric for AU, Card with value 737
+2026-06-10 08:21:18.199 +00:00 [INF] Updated payment metric for AU, Cash with value 716
+2026-06-10 08:21:18.199 +00:00 [INF] Updated payment metric for AU, Paypal with value 595
+2026-06-10 08:21:18.199 +00:00 [INF] Updated payment metric for US, Card with value 86
+2026-06-10 08:21:18.199 +00:00 [INF] Updated payment metric for US, Cash with value 934
+2026-06-10 08:21:18.200 +00:00 [INF] Updated payment metric for US, Paypal with value 745
+2026-06-10 08:21:18.200 +00:00 [INF] Updated payment metric for IN, Card with value 75
+2026-06-10 08:21:18.200 +00:00 [INF] Updated payment metric for IN, Cash with value 906
+2026-06-10 08:21:18.200 +00:00 [INF] Updated payment metric for IN, Paypal with value 757
+2026-06-10 08:21:18.200 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:21:18.205 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:21:18.206 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 7.6848ms
+2026-06-10 08:21:23.196 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:21:23.196 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:21:23.197 +00:00 [INF] Updated sales metric for Loafers with value 43
+2026-06-10 08:21:23.197 +00:00 [INF] Updated sales metric for Boots with value 77
+2026-06-10 08:21:23.197 +00:00 [INF] Updated sales metric for HighHeels with value 53
+2026-06-10 08:21:23.197 +00:00 [INF] Updated payment metric for AU, Card with value 784
+2026-06-10 08:21:23.198 +00:00 [INF] Updated payment metric for AU, Cash with value 958
+2026-06-10 08:21:23.198 +00:00 [INF] Updated payment metric for AU, Paypal with value 945
+2026-06-10 08:21:23.198 +00:00 [INF] Updated payment metric for US, Card with value 238
+2026-06-10 08:21:23.198 +00:00 [INF] Updated payment metric for US, Cash with value 985
+2026-06-10 08:21:23.198 +00:00 [INF] Updated payment metric for US, Paypal with value 48
+2026-06-10 08:21:23.198 +00:00 [INF] Updated payment metric for IN, Card with value 855
+2026-06-10 08:21:23.198 +00:00 [INF] Updated payment metric for IN, Cash with value 95
+2026-06-10 08:21:23.198 +00:00 [INF] Updated payment metric for IN, Paypal with value 41
+2026-06-10 08:21:23.199 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:21:23.203 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:21:23.203 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 7.1651ms
+2026-06-10 08:21:28.194 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:21:28.194 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:21:28.194 +00:00 [INF] Updated sales metric for Loafers with value 30
+2026-06-10 08:21:28.194 +00:00 [INF] Updated sales metric for Boots with value 37
+2026-06-10 08:21:28.195 +00:00 [INF] Updated sales metric for HighHeels with value 37
+2026-06-10 08:21:28.195 +00:00 [INF] Updated payment metric for AU, Card with value 814
+2026-06-10 08:21:28.195 +00:00 [INF] Updated payment metric for AU, Cash with value 263
+2026-06-10 08:21:28.195 +00:00 [INF] Updated payment metric for AU, Paypal with value 918
+2026-06-10 08:21:28.195 +00:00 [INF] Updated payment metric for US, Card with value 984
+2026-06-10 08:21:28.195 +00:00 [INF] Updated payment metric for US, Cash with value 311
+2026-06-10 08:21:28.195 +00:00 [INF] Updated payment metric for US, Paypal with value 712
+2026-06-10 08:21:28.195 +00:00 [INF] Updated payment metric for IN, Card with value 534
+2026-06-10 08:21:28.195 +00:00 [INF] Updated payment metric for IN, Cash with value 449
+2026-06-10 08:21:28.195 +00:00 [INF] Updated payment metric for IN, Paypal with value 193
+2026-06-10 08:21:28.196 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:21:28.197 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:21:28.198 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 3.7119ms
+2026-06-10 08:21:33.194 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:21:33.194 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:21:33.194 +00:00 [INF] Updated sales metric for Loafers with value 17
+2026-06-10 08:21:33.194 +00:00 [INF] Updated sales metric for Boots with value 15
+2026-06-10 08:21:33.194 +00:00 [INF] Updated sales metric for HighHeels with value 47
+2026-06-10 08:21:33.195 +00:00 [INF] Updated payment metric for AU, Card with value 85
+2026-06-10 08:21:33.195 +00:00 [INF] Updated payment metric for AU, Cash with value 892
+2026-06-10 08:21:33.195 +00:00 [INF] Updated payment metric for AU, Paypal with value 201
+2026-06-10 08:21:33.195 +00:00 [INF] Updated payment metric for US, Card with value 646
+2026-06-10 08:21:33.195 +00:00 [INF] Updated payment metric for US, Cash with value 940
+2026-06-10 08:21:33.195 +00:00 [INF] Updated payment metric for US, Paypal with value 582
+2026-06-10 08:21:33.195 +00:00 [INF] Updated payment metric for IN, Card with value 308
+2026-06-10 08:21:33.195 +00:00 [INF] Updated payment metric for IN, Cash with value 647
+2026-06-10 08:21:33.196 +00:00 [INF] Updated payment metric for IN, Paypal with value 511
+2026-06-10 08:21:33.196 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:21:33.198 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:21:33.199 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 4.9457ms
+2026-06-10 08:21:38.197 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:21:38.197 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:21:38.198 +00:00 [INF] Updated sales metric for Loafers with value 90
+2026-06-10 08:21:38.198 +00:00 [INF] Updated sales metric for Boots with value 88
+2026-06-10 08:21:38.198 +00:00 [INF] Updated sales metric for HighHeels with value 14
+2026-06-10 08:21:38.198 +00:00 [INF] Updated payment metric for AU, Card with value 151
+2026-06-10 08:21:38.198 +00:00 [INF] Updated payment metric for AU, Cash with value 811
+2026-06-10 08:21:38.198 +00:00 [INF] Updated payment metric for AU, Paypal with value 354
+2026-06-10 08:21:38.199 +00:00 [INF] Updated payment metric for US, Card with value 137
+2026-06-10 08:21:38.199 +00:00 [INF] Updated payment metric for US, Cash with value 217
+2026-06-10 08:21:38.199 +00:00 [INF] Updated payment metric for US, Paypal with value 490
+2026-06-10 08:21:38.199 +00:00 [INF] Updated payment metric for IN, Card with value 323
+2026-06-10 08:21:38.199 +00:00 [INF] Updated payment metric for IN, Cash with value 951
+2026-06-10 08:21:38.199 +00:00 [INF] Updated payment metric for IN, Paypal with value 775
+2026-06-10 08:21:38.199 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:21:38.203 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:21:38.203 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 6.6718ms
+2026-06-10 08:21:43.197 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:21:43.198 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:21:43.198 +00:00 [INF] Updated sales metric for Loafers with value 50
+2026-06-10 08:21:43.198 +00:00 [INF] Updated sales metric for Boots with value 48
+2026-06-10 08:21:43.199 +00:00 [INF] Updated sales metric for HighHeels with value 69
+2026-06-10 08:21:43.199 +00:00 [INF] Updated payment metric for AU, Card with value 423
+2026-06-10 08:21:43.199 +00:00 [INF] Updated payment metric for AU, Cash with value 965
+2026-06-10 08:21:43.199 +00:00 [INF] Updated payment metric for AU, Paypal with value 749
+2026-06-10 08:21:43.199 +00:00 [INF] Updated payment metric for US, Card with value 931
+2026-06-10 08:21:43.199 +00:00 [INF] Updated payment metric for US, Cash with value 181
+2026-06-10 08:21:43.200 +00:00 [INF] Updated payment metric for US, Paypal with value 448
+2026-06-10 08:21:43.200 +00:00 [INF] Updated payment metric for IN, Card with value 709
+2026-06-10 08:21:43.200 +00:00 [INF] Updated payment metric for IN, Cash with value 469
+2026-06-10 08:21:43.200 +00:00 [INF] Updated payment metric for IN, Paypal with value 140
+2026-06-10 08:21:43.200 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:21:43.202 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:21:43.202 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 5.1768ms
+2026-06-10 08:21:43.622 +00:00 [INF] Application is shutting down...
+2026-06-10 08:21:48.737 +00:00 [INF] Now listening on: http://[::]:8080
+2026-06-10 08:21:48.752 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-06-10 08:21:48.752 +00:00 [INF] Hosting environment: Production
+2026-06-10 08:21:48.752 +00:00 [INF] Content root path: /app
+2026-06-10 08:21:57.361 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:21:57.367 +00:00 [WRN] Failed to determine the https port for redirect.
+2026-06-10 08:21:57.369 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:21:57.372 +00:00 [INF] Updated sales metric for Loafers with value 39
+2026-06-10 08:21:57.372 +00:00 [INF] Updated sales metric for Boots with value 49
+2026-06-10 08:21:57.373 +00:00 [INF] Updated sales metric for HighHeels with value 34
+2026-06-10 08:21:57.373 +00:00 [INF] Updated payment metric for AU, Card with value 380
+2026-06-10 08:21:57.373 +00:00 [INF] Updated payment metric for AU, Cash with value 581
+2026-06-10 08:21:57.373 +00:00 [INF] Updated payment metric for AU, Paypal with value 73
+2026-06-10 08:21:57.374 +00:00 [INF] Updated payment metric for US, Card with value 876
+2026-06-10 08:21:57.374 +00:00 [INF] Updated payment metric for US, Cash with value 53
+2026-06-10 08:21:57.374 +00:00 [INF] Updated payment metric for US, Paypal with value 363
+2026-06-10 08:21:57.374 +00:00 [INF] Updated payment metric for IN, Card with value 147
+2026-06-10 08:21:57.374 +00:00 [INF] Updated payment metric for IN, Cash with value 669
+2026-06-10 08:21:57.374 +00:00 [INF] Updated payment metric for IN, Paypal with value 462
+2026-06-10 08:21:57.375 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:21:57.402 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:21:57.402 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 42.0684ms
+2026-06-10 08:22:02.338 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:22:02.340 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:22:02.341 +00:00 [INF] Updated sales metric for Loafers with value 57
+2026-06-10 08:22:02.341 +00:00 [INF] Updated sales metric for Boots with value 32
+2026-06-10 08:22:02.341 +00:00 [INF] Updated sales metric for HighHeels with value 25
+2026-06-10 08:22:02.341 +00:00 [INF] Updated payment metric for AU, Card with value 122
+2026-06-10 08:22:02.342 +00:00 [INF] Updated payment metric for AU, Cash with value 649
+2026-06-10 08:22:02.342 +00:00 [INF] Updated payment metric for AU, Paypal with value 134
+2026-06-10 08:22:02.342 +00:00 [INF] Updated payment metric for US, Card with value 64
+2026-06-10 08:22:02.342 +00:00 [INF] Updated payment metric for US, Cash with value 961
+2026-06-10 08:22:02.343 +00:00 [INF] Updated payment metric for US, Paypal with value 782
+2026-06-10 08:22:02.343 +00:00 [INF] Updated payment metric for IN, Card with value 826
+2026-06-10 08:22:02.343 +00:00 [INF] Updated payment metric for IN, Cash with value 324
+2026-06-10 08:22:02.343 +00:00 [INF] Updated payment metric for IN, Paypal with value 167
+2026-06-10 08:22:02.344 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:22:02.351 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:22:02.351 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 17.5816ms
+2026-06-10 08:22:07.336 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:22:07.338 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:22:07.339 +00:00 [INF] Updated sales metric for Loafers with value 62
+2026-06-10 08:22:07.339 +00:00 [INF] Updated sales metric for Boots with value 19
+2026-06-10 08:22:07.340 +00:00 [INF] Updated sales metric for HighHeels with value 12
+2026-06-10 08:22:07.340 +00:00 [INF] Updated payment metric for AU, Card with value 699
+2026-06-10 08:22:07.340 +00:00 [INF] Updated payment metric for AU, Cash with value 98
+2026-06-10 08:22:07.340 +00:00 [INF] Updated payment metric for AU, Paypal with value 23
+2026-06-10 08:22:07.340 +00:00 [INF] Updated payment metric for US, Card with value 654
+2026-06-10 08:22:07.340 +00:00 [INF] Updated payment metric for US, Cash with value 690
+2026-06-10 08:22:07.341 +00:00 [INF] Updated payment metric for US, Paypal with value 639
+2026-06-10 08:22:07.341 +00:00 [INF] Updated payment metric for IN, Card with value 211
+2026-06-10 08:22:07.341 +00:00 [INF] Updated payment metric for IN, Cash with value 485
+2026-06-10 08:22:07.341 +00:00 [INF] Updated payment metric for IN, Paypal with value 988
+2026-06-10 08:22:07.342 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:22:07.348 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:22:07.348 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 12.8038ms
+2026-06-10 08:22:12.330 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:22:12.333 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:22:12.334 +00:00 [INF] Updated sales metric for Loafers with value 16
+2026-06-10 08:22:12.334 +00:00 [INF] Updated sales metric for Boots with value 43
+2026-06-10 08:22:12.335 +00:00 [INF] Updated sales metric for HighHeels with value 71
+2026-06-10 08:22:12.335 +00:00 [INF] Updated payment metric for AU, Card with value 962
+2026-06-10 08:22:12.335 +00:00 [INF] Updated payment metric for AU, Cash with value 273
+2026-06-10 08:22:12.336 +00:00 [INF] Updated payment metric for AU, Paypal with value 762
+2026-06-10 08:22:12.336 +00:00 [INF] Updated payment metric for US, Card with value 904
+2026-06-10 08:22:12.336 +00:00 [INF] Updated payment metric for US, Cash with value 17
+2026-06-10 08:22:12.336 +00:00 [INF] Updated payment metric for US, Paypal with value 917
+2026-06-10 08:22:12.337 +00:00 [INF] Updated payment metric for IN, Card with value 846
+2026-06-10 08:22:12.337 +00:00 [INF] Updated payment metric for IN, Cash with value 295
+2026-06-10 08:22:12.337 +00:00 [INF] Updated payment metric for IN, Paypal with value 999
+2026-06-10 08:22:12.338 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:22:12.342 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:22:12.342 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 12.0325ms
+2026-06-10 08:22:17.330 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:22:17.330 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:22:17.330 +00:00 [INF] Updated sales metric for Loafers with value 59
+2026-06-10 08:22:17.330 +00:00 [INF] Updated sales metric for Boots with value 35
+2026-06-10 08:22:17.331 +00:00 [INF] Updated sales metric for HighHeels with value 32
+2026-06-10 08:22:17.331 +00:00 [INF] Updated payment metric for AU, Card with value 640
+2026-06-10 08:22:17.331 +00:00 [INF] Updated payment metric for AU, Cash with value 550
+2026-06-10 08:22:17.331 +00:00 [INF] Updated payment metric for AU, Paypal with value 696
+2026-06-10 08:22:17.331 +00:00 [INF] Updated payment metric for US, Card with value 114
+2026-06-10 08:22:17.332 +00:00 [INF] Updated payment metric for US, Cash with value 947
+2026-06-10 08:22:17.332 +00:00 [INF] Updated payment metric for US, Paypal with value 624
+2026-06-10 08:22:17.332 +00:00 [INF] Updated payment metric for IN, Card with value 665
+2026-06-10 08:22:17.332 +00:00 [INF] Updated payment metric for IN, Cash with value 745
+2026-06-10 08:22:17.332 +00:00 [INF] Updated payment metric for IN, Paypal with value 32
+2026-06-10 08:22:17.332 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:22:17.334 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:22:17.335 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 5.3114ms
+2026-06-10 08:22:22.329 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:22:22.330 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:22:22.331 +00:00 [INF] Updated sales metric for Loafers with value 32
+2026-06-10 08:22:22.331 +00:00 [INF] Updated sales metric for Boots with value 37
+2026-06-10 08:22:22.331 +00:00 [INF] Updated sales metric for HighHeels with value 19
+2026-06-10 08:22:22.332 +00:00 [INF] Updated payment metric for AU, Card with value 913
+2026-06-10 08:22:22.332 +00:00 [INF] Updated payment metric for AU, Cash with value 149
+2026-06-10 08:22:22.332 +00:00 [INF] Updated payment metric for AU, Paypal with value 901
+2026-06-10 08:22:22.332 +00:00 [INF] Updated payment metric for US, Card with value 515
+2026-06-10 08:22:22.332 +00:00 [INF] Updated payment metric for US, Cash with value 778
+2026-06-10 08:22:22.333 +00:00 [INF] Updated payment metric for US, Paypal with value 843
+2026-06-10 08:22:22.333 +00:00 [INF] Updated payment metric for IN, Card with value 181
+2026-06-10 08:22:22.333 +00:00 [INF] Updated payment metric for IN, Cash with value 958
+2026-06-10 08:22:22.333 +00:00 [INF] Updated payment metric for IN, Paypal with value 191
+2026-06-10 08:22:22.333 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:22:22.337 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:22:22.338 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 8.7049ms
+2026-06-10 08:22:27.332 +00:00 [INF] Request starting HTTP/1.1 GET http://shoehub:8080/metrics - null null
+2026-06-10 08:22:27.333 +00:00 [INF] Processing request for path: /metrics
+2026-06-10 08:22:27.333 +00:00 [INF] Updated sales metric for Loafers with value 18
+2026-06-10 08:22:27.333 +00:00 [INF] Updated sales metric for Boots with value 62
+2026-06-10 08:22:27.334 +00:00 [INF] Updated sales metric for HighHeels with value 95
+2026-06-10 08:22:27.334 +00:00 [INF] Updated payment metric for AU, Card with value 194
+2026-06-10 08:22:27.334 +00:00 [INF] Updated payment metric for AU, Cash with value 485
+2026-06-10 08:22:27.334 +00:00 [INF] Updated payment metric for AU, Paypal with value 328
+2026-06-10 08:22:27.335 +00:00 [INF] Updated payment metric for US, Card with value 463
+2026-06-10 08:22:27.335 +00:00 [INF] Updated payment metric for US, Cash with value 711
+2026-06-10 08:22:27.335 +00:00 [INF] Updated payment metric for US, Paypal with value 608
+2026-06-10 08:22:27.335 +00:00 [INF] Updated payment metric for IN, Card with value 587
+2026-06-10 08:22:27.335 +00:00 [INF] Updated payment metric for IN, Cash with value 536
+2026-06-10 08:22:27.335 +00:00 [INF] Updated payment metric for IN, Paypal with value 576
+2026-06-10 08:22:27.336 +00:00 [INF] Executing endpoint 'Prometheus metrics'
+2026-06-10 08:22:27.339 +00:00 [INF] Executed endpoint 'Prometheus metrics'
+2026-06-10 08:22:27.340 +00:00 [INF] Request finished HTTP/1.1 GET http://shoehub:8080/metrics - 200 null application/openmetrics-text; version=1.0.0; charset=utf-8 8.2122ms
